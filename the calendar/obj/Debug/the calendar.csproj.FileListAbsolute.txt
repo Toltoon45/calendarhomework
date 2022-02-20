@@ -1,0 +1,10 @@
+C:\Users\fedor\source\repos\the calendar\the calendar\obj\Debug\the calendar.csproj.AssemblyReference.cache
+C:\Users\fedor\source\repos\the calendar\the calendar\obj\Debug\the_calendar.Form1.resources
+C:\Users\fedor\source\repos\the calendar\the calendar\obj\Debug\the_calendar.Properties.Resources.resources
+C:\Users\fedor\source\repos\the calendar\the calendar\obj\Debug\the calendar.csproj.GenerateResource.cache
+C:\Users\fedor\source\repos\the calendar\the calendar\obj\Debug\the calendar.csproj.CoreCompileInputs.cache
+C:\Users\fedor\source\repos\the calendar\the calendar\bin\Debug\the calendar.exe.config
+C:\Users\fedor\source\repos\the calendar\the calendar\bin\Debug\the calendar.exe
+C:\Users\fedor\source\repos\the calendar\the calendar\bin\Debug\the calendar.pdb
+C:\Users\fedor\source\repos\the calendar\the calendar\obj\Debug\the calendar.exe
+C:\Users\fedor\source\repos\the calendar\the calendar\obj\Debug\the calendar.pdb
